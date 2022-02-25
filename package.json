@@ -1,0 +1,11 @@
+{
+ "name": "try",
+ "version": "0.0.1",
+ "private": true,
+ "scripts": {},
+ "dependencies": {
+  "csvtojson": "^2.0.10",
+  "mkdirp": "^1.0.4"
+ },
+ "devDependencies": {}
+}
